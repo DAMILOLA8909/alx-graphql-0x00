@@ -174,3 +174,4 @@ character/
 
 **Note:** The actual API responses may contain additional fields, but the output files only include the requested fields. The `type` field is often empty for human characters in the Rick and Morty API, which is why it appears as an empty string in the JSON responses.
 
+---
